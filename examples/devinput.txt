@@ -1,0 +1,5 @@
+begin core_map
+A A A
+A B A
+A A A
+end core_map
